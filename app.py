@@ -198,4 +198,5 @@ with tab_input:
 # FOOTER
 # =========================
 st.divider()
-st.caption("© Telco Churn Prediction • Streamlit App • Untuk kebutuhan UAS")
+st.caption("© Telco Churn Prediction • Streamlit App • IBRAHIM AKBARA ARGA DEWANGGA A11.2022.14417")
+
